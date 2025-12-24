@@ -1,13 +1,7 @@
 name = "sink"
-pages_build_output_dir = "dist"
-main = "dist/server/index.mjs"
 compatibility_date = "2025-05-08"
 compatibility_flags = ["nodejs_compat"]
-keep_vars = true
-upload_source_maps = true
-
-[assets]
-directory = "dist/public"
+pages_build_output_dir = "dist"
 
 [ai]
 binding = "AI"
