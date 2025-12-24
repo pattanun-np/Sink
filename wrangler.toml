@@ -7,7 +7,6 @@ keep_vars = true
 upload_source_maps = true
 
 [assets]
-binding = "ASSETS"
 directory = "dist/public"
 
 [ai]
