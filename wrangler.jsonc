@@ -10,6 +10,9 @@
   "compatibility_flags": ["nodejs_compat"],
   "keep_vars": true,
   "upload_source_maps": true,
+  "vars": {
+    "NUXT_CF_ACCOUNT_ID": "6e05193d67de476fdca18feb9889c344"
+  },
   "ai": {
     "binding": "AI"
   },
