@@ -10,9 +10,6 @@ binding = "AI"
 binding = "ANALYTICS"
 dataset = "sink"
 
-[vars]
-NUXT_SITE_TOKEN = "SinkCool"
-
 [[kv_namespaces]]
 binding = "KV"
 id = "17d4d405e13440f8b5a3379c6196f0d7"
