@@ -1,5 +1,6 @@
 {
   "name": "sink",
+  "account_id": "6e05193d67de476fdca18feb9889c344",
   "main": "dist/server/index.mjs",
   "assets": {
     "directory": "dist/public",
