@@ -12,4 +12,4 @@ dataset = "sink"
 
 [[kv_namespaces]]
 binding = "KV"
-id = "ef93d42dc4b34969bab404d2e80f8dd3" # IMPORTANT: Change this to your KV namespace ID
+id = "17d4d405e13440f8b5a3379c6196f0d7"
