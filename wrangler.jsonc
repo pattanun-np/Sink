@@ -1,0 +1,27 @@
+{
+  "name": "sink",
+  "main": "dist/server/index.mjs",
+  "assets": {
+    "directory": "dist/public",
+    "binding": "ASSETS"
+  },
+  "compatibility_date": "2025-05-08",
+  "compatibility_flags": ["nodejs_compat"],
+  "keep_vars": true,
+  "upload_source_maps": true,
+  "ai": {
+    "binding": "AI"
+  },
+  "analytics_engine_datasets": [
+    {
+      "binding": "ANALYTICS",
+      "dataset": "sink"
+    }
+  ],
+  "kv_namespaces": [
+    {
+      "binding": "KV",
+      "id": "17d4d405e13440f8b5a3379c6196f0d7"
+    }
+  ]
+}
